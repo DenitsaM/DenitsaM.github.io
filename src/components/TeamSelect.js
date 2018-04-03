@@ -6,8 +6,6 @@ import language from './languages';
 import { MultilanguageState } from './MultilanguageState';
 import OpenTeam from './OpenTeam';
 import tent from '../style/Images/tents.jpg';
-import challange1 from '../style/Images/challange1.jpg';
-import challange2 from '../style/Images/challange2.jpg';
 
 
   class TeamSelect extends React.Component{
@@ -38,7 +36,7 @@ import challange2 from '../style/Images/challange2.jpg';
       <h2 className="SelectTitle">{TeamsData.title} </h2>
       <div className="TeamDescr">
           <div className="PicGallery">
-            <img  src={tent} />
+            <img  src={require(`../style/Images/${TeamsData.img}`)} />
           </div>
         </div>
         <div className="TeamDescr">

@@ -62,7 +62,7 @@ TeamsData : [
      "description5" : ``,
      "description6" : ``,
       "timing": "5-24 hours",
-      "img": "/style/Images/tents.jpg"
+      "img": "1.JPG"
     },
     {
       "id": 2,
@@ -81,7 +81,7 @@ TeamsData : [
      "description6" : ` Media,`,
      "description7" : "Fitness",
       "timing": "2-5 hours",
-      "img": "/style/Images/tents.jpg"
+        "img": "4.JPG"
     },
     {
       "id": 3,
@@ -119,7 +119,7 @@ TeamsData : [
                          Documentary and the GAME OF THRONES series and will be broadcasted at the dinner as sweet memories of the war years.`,
       "description6" : ``,
       "timing": "2-5 hours",
-      "img": "/style/Images/tents.jpg"
+    "img": "9.jpg"
     },
     {
       "id": 4,
@@ -134,7 +134,7 @@ TeamsData : [
        "description5": `5.	Sheep can speak`,
        "description6": `6.	“Three Big Balls” soccer`,
      "timing": "1-3 hours",
-     "img": "/style/Images/tents.jpg"
+       "img": "11.JPG"
    },
     {
       "id": 5,
@@ -149,7 +149,7 @@ TeamsData : [
        "description5": `5.	Oscars night `,
        "description6": ``,
      "timing": "1-3 hours",
-     "img": "/style/Images/tents.jpg"
+     "img": "106.jpg"
    },
     {
       "id": 6,
@@ -164,7 +164,7 @@ TeamsData : [
        "description5": ``,
        "description6": ``,
      "timing": "0.30 to 2 hours",
-     "img": "/style/Images/tents.jpg"
+     "img": "108.jpg"
    },
    {
      "id": 7,
@@ -183,7 +183,7 @@ TeamsData : [
       "description5": ``,
       "description6": ``,
     "timing": "5 to 12 hours",
-    "img": "/style/Images/tents.jpg"
+    "img": "7.JPG"
   },
   {
     "id": 8,
@@ -199,7 +199,7 @@ TeamsData : [
      "description5": ``,
      "description6": ``,
    "timing": "1 to 3 hours",
-   "img": "/style/Images/tents.jpg"
+   "img": "26.JPG"
  },
  {
    "id": 9,
@@ -214,7 +214,7 @@ TeamsData : [
     "description5": `- Сървайвър (включва лагеруване на открито, режисирано оцеляване в дивата природа)`,
     "description6": ``,
   "timing": "1 to 3 hours",
-  "img": "/style/Images/tents.jpg"
+   "img": "challange1.jpg"
 },
 {
   "id": 10,
@@ -229,7 +229,7 @@ TeamsData : [
    "description5": "",
    "description6": "",
    "timing": "1 to 3 hours",
-   "img": "/style/Images/tents.jpg"
+     "img": "3.JPG"
 }
 ]
     },
@@ -299,7 +299,7 @@ TeamsData : [
       "description2": `- Разпускане – излежаване в хамаците, Слушане на специалната подборка музика от Ди Джея. Сладолед, пуканки, захарен памук, страхотни десерти, дегустаране на лютеница, дегустаране на вино и песни и танци около огнището.`,
       "description3" : `- Спорт - бадмингтон, волейбол, футбол и малък тимбилдинг по ваш избор (като бинокълен футбол, въжена градина с бирички или стрелба с лък)`,
       "timing": "5-24 часа",
-      "img": "./style/Images/tents.jpg"
+      "img": "1.JPG"
     },
     {
       "id": 2,
@@ -315,7 +315,7 @@ TeamsData : [
       "description6" : " Медия,",
       "description7" : "Фитнес щанд",
       "timing": "2-5 часа",
-      "img": "./style/Images/tents.jpg"
+      "img": "4.JPG"
     },
     {
       "id": 3,
@@ -344,7 +344,7 @@ TeamsData : [
  "description12" : "8.	Народна Битка (народна топка)",
 "description13": `Допълнително задание за пацифистите . Те ще се нарекат историци - хроникьори и ще заснемат и коментират интересното, което се случва. Ще бъдат два отбора и ще разполагат с камера, статив и микрофон. Трябва да направят епизод от филма в стилистиката на оригинала, но базиран на реални бойни действия на трехните колеги. Различните варианти епизоди на екипите ще се бият за голямата награда на Вестерос и ще се излъчат на вечерята като мил спомен от военните години.`,
       "timing": "2-5 часа",
-      "img": "./style/Images/tents.jpg"
+      "img": "9.jpg"
     },
     {
       "id": 4,
@@ -358,7 +358,7 @@ TeamsData : [
       "description4" : `Игра 5 Въжена градина с бири`,
       "description5" : `Игра 6 Тритопкен футбол`,
       "timing": "1-3 часа",
-      "img": "./style/Images/tents.jpg"
+      "img": "11.JPG"
     },
     {
       "id": 5,
@@ -373,7 +373,7 @@ TeamsData : [
       "description5" : `4.	Монтаж – музикална оформление, монтаж, кредити. Професионално извършване с монтажна техника от консултанта.`,
       "description6" : `5.	Вечер на Оскарите – излъчване и гледане на филмите. Гласуване за статуетките и награждаване.`,
       "timing": "2-7 часа",
-      "img": "./style/Images/tents.jpg"
+      "img": "106.jpg"
     },
     {
       "id": 6,
@@ -387,7 +387,7 @@ TeamsData : [
       "description4" : `-	Автоматично сюрреалистично интервю`,
       "description5" : ``,
       "timing": "0.30-2 часа",
-      "img": "./style/Images/tents.jpg"
+      "img": "108.jpg"
     },
     {
       "id": 7,
@@ -401,7 +401,7 @@ TeamsData : [
       "description4" : ``,
       "description5" : ``,
       "timing": "5-12 часа",
-      "img": "./style/Images/tents.jpg"
+      "img": "7.JPG"
     },
     {
       "id": 8,
@@ -415,7 +415,7 @@ TeamsData : [
       "description4" : ``,
       "description5" : ``,
       "timing": "1-3 часа",
-      "img": "./style/Images/tents.jpg"
+      "img": "26.JPG"
     },
     {
       "id": 9,
@@ -430,7 +430,7 @@ TeamsData : [
        "description5": `- Сървайвър (включва лагеруване на открито, режисирано оцеляване в дивата природа)`,
        "description6": ``,
      "timing": "1 to 3 hours",
-     "img": "/style/Images/tents.jpg"
+     "img": "challange1.jpg"
    },
    {
      "id": 10,
@@ -445,7 +445,7 @@ TeamsData : [
       "description5": "",
       "description6": "",
       "timing": "1 to 3 hours",
-      "img": "/style/Images/tents.jpg"
+      "img": "3.JPG"
    }
 ]
 }

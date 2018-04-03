@@ -231,7 +231,10 @@ footer>div {
   background: #21BAB9;
   color: white;
   bottom: -24px;
-  padding: 10px 0;
+  padding: 5px 0;
+}
+.TeamMore p {
+  font-size: 14px;
 }
 .thumb .TeamTitle {
   position: absolute;
@@ -250,16 +253,34 @@ footer>div {
   padding: 5px 0;
 }
 .thumb1 {
-  background-image:url('../Images/challange.JPG');
+  background-image:url('../Images/101.jpg');
 }
 .thumb2 {
   background-image:url('../Images/fair.JPG');
 }
 .thumb4 {
-  background-image:url('../Images/pleasure.JPG');
+  background-image:url('../Images/104.jpg');
 }
 .thumb3 {
-  background-image:url('../Images/gameof.JPG');
+  background-image:url('../Images/25.JPG');
+}
+.thumb5 {
+  background-image:url('../Images/105.jpg');
+}
+.thumb6 {
+  background-image:url('../Images/107.jpg');
+}
+.thumb7 {
+  background-image:url('../Images/110.jpg');
+}
+.thumb8 {
+  background-image:url('../Images/8.JPG');
+}
+.thumb9 {
+  background-image:url('../Images/pleasure.JPG');
+}
+.thumb10 {
+  background-image:url('../Images/17.JPG');
 }
 .sprite {
   width: 25%;
@@ -391,6 +412,20 @@ footer>div {
 }
 .FaceIcon:hover{
   background-color: #364554;
+}
+.FaceLink {
+  font-size: 0;
+  background-image:url('../Images/facebook1.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  background-size: 65%;
+}
+.FaceLink:hover {
+    background-color: #FEC732;
 }
 @media (max-width: 1600px) {
   .thumb {

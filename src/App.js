@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import {BrowserRouter, Link} from 'react-router-dom';
 import {Router, Route, IndexRoute, hasgHistory} from "react-router";
 
-import uuid from 'uuid';
 import Home from './components/home.js';
 import About from './components/about.js';
 import Contacts from './components/contacts.js';

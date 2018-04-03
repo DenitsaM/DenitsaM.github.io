@@ -28,7 +28,6 @@ render(props){
           <div className="TeamTitle">
             <p>{p.title}</p>
             <div className="TeamMore">
-              <p>{p.title}</p>
               <p>{p.timing}</p>
               <p>{p.groups}</p>
               <p>{p.type}</p>

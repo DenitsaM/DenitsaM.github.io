@@ -27,7 +27,7 @@ class Contacts extends React.Component{
           <p>{t[this.props.currentLanguage].adress1}</p>
           <p>{t[this.props.currentLanguage].phone}: 0893427303</p>
           <p>{t[this.props.currentLanguage].email}: 'info@elefantent.com' </p>
-          <a href="https://www.facebook.com/search/top/?q=%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%BA%D0%B0%D1%82%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%BB%D0%BE%D0%BD%D0%B0" target="_blank">{t[this.state.currentLanguage].facebook}</a>
+          <a href="https://www.facebook.com/search/top/?q=%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%BA%D0%B0%D1%82%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%BB%D0%BE%D0%BD%D0%B0" target="_blank" className="FaceLink">{t[this.state.currentLanguage].facebook}</a>
         </div>
       </div>
     );
