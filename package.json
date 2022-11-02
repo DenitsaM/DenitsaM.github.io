@@ -8,7 +8,7 @@
     "compass": "^0.1.1",
     "create-react-context": "^0.2.1",
     "fbemitter": "^2.1.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "history": "^1.17.0",
     "react": "^16.0.0",
     "react-composer": "^5.0.0",
