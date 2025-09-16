@@ -31,6 +31,6 @@
   },
   "devDependencies": {
     "gh-pages": "^1.1.0",
-    "gulp-sass": "^3.1.0"
+    "gulp-sass": "^6.0.1"
   }
 }
